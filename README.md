@@ -1,4 +1,4 @@
-# Italy Schools Scraper
+# Italy International Schools Database Scraper
 
 This project scrapes information about international schools in Italy from the International Schools Database website.
 
